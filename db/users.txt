@@ -1,0 +1,2 @@
+1,Jake Paul,test123,test@gmail.com,Jake2000,Customer
+0,harpret shah,admin123,admin@gmail.com,Admin,Admin

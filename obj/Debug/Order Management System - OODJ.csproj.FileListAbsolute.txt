@@ -1,0 +1,18 @@
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\bin\Debug\Order Management System - OODJ.exe
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\bin\Debug\Order Management System - OODJ.pdb
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order Management System - OODJ.csproj.AssemblyReference.cache
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Properties.Resources.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order Management System - OODJ.csproj.GenerateResource.cache
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order Management System - OODJ.csproj.CoreCompileInputs.cache
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order Management System - OODJ.exe
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order Management System - OODJ.pdb
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.AdminMain.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.LoginForm.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.Add_Product.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.Edit_Product.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.Profile.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.View_Products.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.View_Orders.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.Update_Order_Status.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.ViewCustomer.resources
+D:\Work\frreelanncefivr\Harpret assignments\OODJ\Order Management System - OODJ\obj\Debug\Order_Management_System___OODJ.Forms.Order_Details.resources

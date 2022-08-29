@@ -1,0 +1,4 @@
+4,SpeedLink Gaming Mouse,Red Gaming Mouse 6 buttons Speedlink,60,5
+3,Hard Disk 2TB,2TB External Storage Hard diskss,250,4.5
+5,SpeedLink Gaming Keyboard,Gaming Keyboard With builtin led lights,40,3.5
+1,Lenovo Legion Y520,16GB RAM - GTX GeForce 1050 - Core i7 - 2.8 GHZ - 1TB Storage,5211,4.5
